@@ -15,9 +15,8 @@
 
 | # | Nombre completo |
 |---|-----------------|
-| 1 | |
-| 2 | |
-| 3 | |
+| 1 | Johan Triana Sanchez
+
 
 ---
 
